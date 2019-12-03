@@ -1,6 +1,6 @@
 **VertexAngleCalculator**
 
-This transformer takes as input a line or a polygon and calculates the change of direction (angle) at each vertex.
+FME (Safe Software). This transformer takes as input a line or a polygon and calculates the change of direction (angle) at each vertex.
 Transformer inspired from VertexAngleCalculator (VICREA).
 
 **Usage**
